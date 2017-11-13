@@ -35,7 +35,7 @@ https://github.com/kalyons11
 Software Engineer at Uber ATG   
 https://github.com/sujankh
 
-3. Neha Mittoor Changappa (Developer, Interplanetary Idea System )   
+3. Neha Mittoor Changappa    
 Entrepreneur (https://www.digitallisto.com/), Full Stack Web Developer, Blockchain Technology Enthusiast    
 https://github.com/orgs/open-science-org/people/nehamchangappa
 
