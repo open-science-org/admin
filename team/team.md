@@ -8,7 +8,7 @@ https://github.com/himalayajung
 Solutions Architect, Cloudera  
 https://github.com/KeithSSmith
 
-3. Bikos (Developer)
+3. Bikos (Developer)    
 https://github.com/bikos
 
 4. Abinash Koirala (Developer)   
