@@ -1,15 +1,11 @@
 # Members
 
-1. Gajendra Jung Katuwal, Vision, Research
-
-Scientist (Machine Learning + Blockchain)
-
+1. Gajendra Jung Katuwal, Vision, Research   
+Scientist (Machine Learning + Blockchain)   
 https://github.com/himalayajung
 
-2. Keith Smith, Research, Developer
-
-Solutions Architect, Cloudera
-
+2. Keith Smith, Research, Developer   
+Solutions Architect, Cloudera  
 https://github.com/KeithSSmith
 
 3. Bikos, Developer
