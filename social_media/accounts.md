@@ -8,3 +8,6 @@ https://twitter.com/OpenScienceOrg
 
 *Medium*
 https://medium.com/@openscience.org
+
+*Telegram*
+https://t.me/openscienceorg
