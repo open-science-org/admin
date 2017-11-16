@@ -17,7 +17,8 @@ https://github.com/kdgosik
 
 4. Bikos (Developer)  
 Freelancer    
-M.S. in Computer Science & Information Security St. Cloud State University    
+M.S. in Computer Science & Information Security   
+St. Cloud State University    
 https://github.com/bikos
 
 5. Abinash Koirala (Developer)    
