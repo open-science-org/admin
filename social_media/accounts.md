@@ -11,3 +11,6 @@ https://medium.com/@openscience.org
 
 *Telegram*
 https://t.me/openscienceorg
+
+*Facebook*
+https://www.facebook.com/openscience.org
