@@ -7,8 +7,8 @@ https://www.linkedin.com/company/open-science-organization/
 https://twitter.com/OpenScienceOrg
 
 **Medium**
-Medium account: https://medium.com/@openscience.org
-Medium publication: https://medium.com/openscienceorg
+Medium account: https://medium.com/@openscience.org  
+Medium publication: https://medium.com/openscienceorg  
 
 **Telegram**
 https://t.me/openscienceorg
