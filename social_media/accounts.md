@@ -1,20 +1,20 @@
 # Official social media accounts
 
-*Linkedin*
+**Linkedin**
 https://www.linkedin.com/company/open-science-organization/
 
-*Twitter*
+**Twitter**
 https://twitter.com/OpenScienceOrg
 
-*Medium*
+**Medium**
 Medium account: https://medium.com/@openscience.org
 Medium publication: https://medium.com/openscienceorg
 
-*Telegram*
+**Telegram**
 https://t.me/openscienceorg
 
-*Slack*
+**Slack**
 open-science-org.slack.com
 
-*Facebook*
+**Facebook**
 https://www.facebook.com/openscience.org
