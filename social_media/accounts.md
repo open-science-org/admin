@@ -6,7 +6,7 @@ https://www.linkedin.com/company/open-science-organization/
 **Twitter**
 https://twitter.com/OpenScienceOrg
 
-**Medium**
+**Medium**  
 Medium account: https://medium.com/@openscience.org  
 Medium publication: https://medium.com/openscienceorg  
 
