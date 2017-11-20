@@ -49,11 +49,17 @@ https://github.com/kalyons11
 Software Engineer at Uber ATG   
 https://github.com/sujankh
 
-3. Neha Mittoor Changappa    
+4. Neha Mittoor Changappa    
 Entrepreneur (https://www.digitallisto.com/), Full Stack Web Developer, Blockchain Technology Enthusiast    
 https://github.com/orgs/open-science-org/people/nehamchangappa
 
-4. Enbo Zhao    
-PhD candidate in Material Science and Engineering at Georgia Tech (5th year)    
+5. Enbo Zhao    
+PhD candidate in Material Science and Engineering at Georgia Tech (5th year)   
 https://github.com/zebgleaner
+
+6. Andrew Kang  
+Healthcare Consultant, ZS Associates 
+
+7. James Ding  
+Forward Deployed Engineer, Palantir
 
