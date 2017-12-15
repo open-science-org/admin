@@ -10,7 +10,7 @@ Solutions Architect, Cloudera
 M.A. in Economics, University of Arizona    
 https://github.com/KeithSSmith
 
-3. Kirk Gosic (Research, Developer)  
+3. Kirk Gosik (Research, Developer)  
 Computational Biologist Post Doc, Broad Institute   
 PhD in Biostatistics (Statistical Genetics), Penn State University    
 https://github.com/kdgosik
