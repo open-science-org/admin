@@ -24,7 +24,7 @@ https://github.com/bikos
 5. Abinash Koirala (Developer)    
 Software Engineer, Move Inc.    
 M.S. in Information Technology, Rensselaer Polytechnic Institute    
-https://github.com/orgs/open-science-org/people/abinashk
+https://github.com/abinashk
 
 6. Robert Chen (Developer)     
 MD/PhD Candidate Georgia Tech, Emory University   
