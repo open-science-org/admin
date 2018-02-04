@@ -58,7 +58,8 @@ PhD candidate in Material Science and Engineering at Georgia Tech (5th year)
 https://github.com/zebgleaner
 
 6. Andrew Kang  
-Healthcare Consultant, ZS Associates 
+Healthcare Consultant, ZS Associates   
+https://www.linkedin.com/in/andrew-kang-94186468/ 
 
 7. James Ding  
 Forward Deployed Engineer, Palantir
