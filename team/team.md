@@ -45,6 +45,10 @@ https://github.com/orgs/open-science-org/people/canautumn
 1. Noman Land         
 https://github.com/orgs/open-science-org/people/noman-land
 
+2. Oaponbc   
+Editor at a reputed scientific journal   
+https://github.com/oaponbc
+
 2. Kevin A Lyons    
 EECS @ MIT, Full Stack Developer at Nodal   
 https://github.com/kalyons11
