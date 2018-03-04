@@ -26,10 +26,14 @@ Software Engineer, Move Inc.
 M.S. in Information Technology, Rensselaer Polytechnic Institute    
 https://github.com/abinashk
 
-6. Robert Chen (Developer)     
-MD/PhD Candidate Georgia Tech, Emory University   
-B.S. Mathematics, Computer Science, Massachusetts Institute of Technology   
+6. Robert Chen (Developer)     
+MD/PhD Candidate Georgia Tech, Emory University      
+B.S. Mathematics, Computer Science, Massachusetts Institute of Technology    
 https://github.com/orgs/open-science-org/people/rchenmit
+
+6. Eric Gagnon(Developer)     
+Data Scientist, Penn State Health    
+M.S. Applied Statistics, Penn State University    
 
 7. Can Jin (Developer)  
 Engineer/Scientist, Apple   
