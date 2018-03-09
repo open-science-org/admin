@@ -28,12 +28,14 @@ https://github.com/abinashk
 
 6. Robert Chen (Developer)     
 MD/PhD Candidate Georgia Tech, Emory University      
-B.S. Mathematics, Computer Science, Massachusetts Institute of Technology    
+B.S. Mathematics, Computer Science, Massachusetts Institute of Technology        
 https://github.com/orgs/open-science-org/people/rchenmit
 
 6. Eric Gagnon(Developer)     
 Data Scientist, Penn State Health    
 M.S. Applied Statistics, Penn State University    
+https://github.com/ericsgagnon    
+https://www.linkedin.com/in/eric-gagnon-3367b67b/
 
 7. Can Jin (Developer)  
 Engineer/Scientist, Apple   
