@@ -1,4 +1,5 @@
 # Members
+(Not in any particular order)
 
 1. Gajendra Jung Katuwal (Vision, Research)   
 Scientist (Machine Learning + Blockchain), Philips Innovations Lab  
@@ -31,13 +32,18 @@ MD/PhD Candidate Georgia Tech, Emory University    
 B.S. Mathematics, Computer Science, Massachusetts Institute of Technology        
 https://github.com/orgs/open-science-org/people/rchenmit
 
-6. Eric Gagnon(Developer)     
+6. Eric Gagnon (Developer)     
 Data Scientist, Penn State Health    
 M.S. Applied Statistics, Penn State University    
 https://github.com/ericsgagnon    
 https://www.linkedin.com/in/eric-gagnon-3367b67b/
 
-7. Can Jin (Developer)  
+7. Joseph Netti 
+Blockchain Researcher, Draper     
+President, RIT Blockchain Club      
+https://www.linkedin.com/in/joseph-netti-a37a50104/
+
+8. Can Jin (Developer)  
 Engineer/Scientist, Apple   
 PhD in Imaging Science, Rochester Institute of Technology   
 https://github.com/orgs/open-science-org/people/canautumn
