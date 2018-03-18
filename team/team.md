@@ -27,9 +27,9 @@ Software Engineer, Move Inc.
 M.S. in Information Technology, Rensselaer Polytechnic Institute    
 https://github.com/abinashk
 
-6. Robert Chen (Developer)           
-MD/PhD Candidate Georgia Tech, Emory University           
-B.S. Mathematics, Computer Science, Massachusetts Institute of Technology               
+6. Robert Chen (Developer)      
+MD/PhD Candidate Georgia Tech, Emory University     
+B.S. Mathematics, Computer Science, Massachusetts Institute of Technology       
 https://github.com/orgs/open-science-org/people/rchenmit
 
 6. Eric Gagnon (Developer)     
@@ -38,7 +38,7 @@ M.S. Applied Statistics, Penn State University
 https://github.com/ericsgagnon    
 https://www.linkedin.com/in/eric-gagnon-3367b67b/
 
-7. Joseph Netti 
+7. Joseph Netti        
 Blockchain Researcher, Draper     
 President, RIT Blockchain Club      
 https://www.linkedin.com/in/joseph-netti-a37a50104/
