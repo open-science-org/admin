@@ -32,6 +32,10 @@ MD/PhD Candidate Georgia Tech, Emory University
 B.S. Mathematics, Computer Science, Massachusetts Institute of Technology       
 https://github.com/orgs/open-science-org/people/rchenmit
 
+7. Zheng Liu  
+Associate Professor, The University of British Columbia    
+https://www.linkedin.com/in/zhengliu6699/
+
 6. Eric Gagnon (Developer)     
 Data Scientist, Penn State Health    
 M.S. Applied Statistics, Penn State University    
