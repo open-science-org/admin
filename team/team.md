@@ -84,3 +84,8 @@ https://www.linkedin.com/in/andrew-kang-94186468/
 7. James Ding  
 Forward Deployed Engineer, Palantir
 
+
+# Advisors (Academic)
+1. Stanislaw Radziszowski
+a mathematician and computer scientist, best known for his work in Ramsey theory
+Prof. of Computer Science, Rochester Institute of Technology 
