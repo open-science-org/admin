@@ -86,6 +86,6 @@ Forward Deployed Engineer, Palantir
 
 
 # Advisors (Academic)
-1. Stanislaw Radziszowski
-a mathematician and computer scientist, best known for his work in Ramsey theory
-Prof. of Computer Science, Rochester Institute of Technology 
+1. Stanislaw Radziszowski   
+Prof. of Computer Science, Rochester Institute of Technology    
+a mathematician and computer scientist, best known for his work in Ramsey theory        https://www.cs.rit.edu/~spr/homepage.html
