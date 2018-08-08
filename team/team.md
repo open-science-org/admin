@@ -97,5 +97,5 @@ a mathematician and computer scientist, best known for his work in Ramsey theory
 
 2. Stefi Baum  
 Dean of the Faculty of Science, Professor of Physics & Astronomy, University of Manitoba   
-(previously) Science Diplomacy Fellow at the US Department of State & American Institute of Physics Diplomacy Fellow, Division Head at Space Telescope Science Institute     
+(previously) Science Diplomacy Fellow at the US Department of State, American Institute of Physics Diplomacy Fellow, Division Head at Space Telescope Science Institute     
 https://en.wikipedia.org/wiki/Stefi_Baum
