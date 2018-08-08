@@ -27,6 +27,11 @@ Software Engineer, Move Inc.
 M.S. in Information Technology, Rensselaer Polytechnic Institute    
 https://github.com/abinashk
 
+6. Sandip Pandey    
+Blockchain Engineer, Blockchain Lab TU Delft     
+MSc. in Security & Privacy, EIT Digital., University of Twente 		   
+https://github.com/xoriole
+
 6. Robert Chen (Developer)      
 MD/PhD Candidate Georgia Tech, Emory University     
 B.S. Mathematics, Computer Science, Massachusetts Institute of Technology       
@@ -89,3 +94,8 @@ Forward Deployed Engineer, Palantir
 1. Stanislaw Radziszowski   
 Prof. of Computer Science, Rochester Institute of Technology    
 a mathematician and computer scientist, best known for his work in Ramsey theory        https://www.cs.rit.edu/~spr/homepage.html
+
+2. Stefi Baum  
+Dean of the Faculty of Science, Professor of Physics & Astronomy, University of Manitoba   
+(previously) Science Diplomacy Fellow at the US Department of State, American Institute of Physics Diplomacy Fellow, Division Head at Space Telescope Science Institute     
+https://en.wikipedia.org/wiki/Stefi_Baum
