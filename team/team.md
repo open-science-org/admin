@@ -62,31 +62,34 @@ https://github.com/orgs/open-science-org/people/canautumn
 1. Noman Land         
 https://github.com/orgs/open-science-org/people/noman-land
 
-2. Oaponbc   
+2. Aaron Rosado
+MD/PhD Candidate Emory/Georgia Tech
+
+3. Oaponbc   
 Editor at a reputed scientific journal   
 https://github.com/oaponbc
 
-2. Kevin A Lyons    
+4. Kevin A Lyons    
 EECS @ MIT, Full Stack Developer at Nodal   
 https://github.com/kalyons11
 
-3. Sujan Khadka     
+5. Sujan Khadka     
 Software Engineer at Uber ATG   
 https://github.com/sujankh
 
-4. Neha Mittoor Changappa    
+6. Neha Mittoor Changappa    
 Entrepreneur (https://www.digitallisto.com/), Full Stack Web Developer, Blockchain Technology Enthusiast    
 https://github.com/orgs/open-science-org/people/nehamchangappa
 
-5. Enbo Zhao    
+7. Enbo Zhao    
 PhD candidate in Material Science and Engineering at Georgia Tech (5th year)   
 https://github.com/zebgleaner
 
-6. Andrew Kang  
+8. Andrew Kang  
 Healthcare Consultant, ZS Associates   
 https://www.linkedin.com/in/andrew-kang-94186468/ 
 
-7. James Ding  
+9. James Ding  
 Forward Deployed Engineer, Palantir
 
 
