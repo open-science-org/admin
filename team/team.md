@@ -77,6 +77,10 @@ https://github.com/kalyons11
 Software Engineer at Uber ATG   
 https://github.com/sujankh
 
+6. Wells Wang         
+Graduate Student at University British Columbia      
+https://github.com/wellsytheman
+
 6. Neha Mittoor Changappa    
 Entrepreneur (https://www.digitallisto.com/), Full Stack Web Developer, Blockchain Technology Enthusiast    
 https://github.com/orgs/open-science-org/people/nehamchangappa
@@ -96,7 +100,8 @@ Forward Deployed Engineer, Palantir
 # Advisors (Academic)
 1. Stanislaw Radziszowski   
 Prof. of Computer Science, Rochester Institute of Technology    
-a mathematician and computer scientist, best known for his work in Ramsey theory        https://www.cs.rit.edu/~spr/homepage.html
+a mathematician and computer scientist, best known for his work in Ramsey theory        
+https://www.cs.rit.edu/~spr/homepage.html
 
 2. Stefi Baum  
 Dean of the Faculty of Science, Professor of Physics & Astronomy, University of Manitoba   
