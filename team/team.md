@@ -42,7 +42,7 @@ Associate Professor, The University of British Columbia
 https://www.linkedin.com/in/zhengliu6699/
 
 9. Guilherme Gervasio    
-Software Engineer    
+Full Stack dev @Deli and @BitBat Games    
 https://github.com/gil-air-may   
 
 10. Eric Gagnon (Developer)     
