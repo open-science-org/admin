@@ -27,32 +27,36 @@ Software Engineer, Move Inc.
 M.S. in Information Technology, Rensselaer Polytechnic Institute    
 https://github.com/abinashk
 
-6. Sandip Pandey    
-Blockchain Engineer, Blockchain Lab TU Delft     
-MSc. in Security & Privacy, EIT Digital., University of Twente 		   
-https://github.com/xoriole
-
 6. Robert Chen (Developer)      
 MD/PhD Candidate Georgia Tech, Emory University     
 B.S. Mathematics, Computer Science, Massachusetts Institute of Technology       
 https://github.com/orgs/open-science-org/people/rchenmit
 
-7. Zheng Liu  
+7. Sandip Pandey    
+Blockchain Engineer, Blockchain Lab TU Delft     
+MSc. in Security & Privacy, EIT Digital., University of Twente 		   
+https://github.com/xoriole
+
+8. Zheng Liu  
 Associate Professor, The University of British Columbia    
 https://www.linkedin.com/in/zhengliu6699/
 
-6. Eric Gagnon (Developer)     
+9. Guilherme Gervasio    
+Software Engineer    
+https://github.com/gil-air-may   
+
+10. Eric Gagnon (Developer)     
 Data Scientist, Penn State Health    
 M.S. Applied Statistics, Penn State University    
 https://github.com/ericsgagnon    
 https://www.linkedin.com/in/eric-gagnon-3367b67b/
 
-7. Joseph Netti        
+11. Joseph Netti        
 Blockchain Researcher, Draper     
 President, RIT Blockchain Club      
 https://www.linkedin.com/in/joseph-netti-a37a50104/
 
-8. Can Jin (Developer)  
+12. Can Jin (Developer)  
 Engineer/Scientist, Apple   
 PhD in Imaging Science, Rochester Institute of Technology   
 https://github.com/orgs/open-science-org/people/canautumn
